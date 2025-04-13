@@ -6,6 +6,7 @@
 // Make me compile and pass the test!
 //
 // Execute `rustlings hint vecs1` or use the `hint` watch subcommand for a hint.
+//rustlings run vecs1
 
 
 fn array_and_vec() -> ([i32; 4], Vec<i32>) {
