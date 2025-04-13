@@ -8,6 +8,7 @@ pub struct Queue<T> {
     elements: Vec<T>,
 }
 
+
 impl<T> Queue<T> {
     pub fn new() -> Queue<T> {
         Queue {
